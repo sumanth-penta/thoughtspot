@@ -1,0 +1,15 @@
+guid: 8dede1d8-e8f4-4545-81ba-6b1a11541369
+liveboard:
+  name: Primary Testing LB
+  visualizations:
+  - id: Viz_1
+    viz_guid: b2bb942e-71c6-48cd-98ac-856e0ece5b9c
+    note_tile:
+      html_parsed_string: "<h2 class=\"theme-module__editor-h2-spaced\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">Sample note</span></h2><p class=\"theme-module__editor-paragraph-spaced\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">Version1</span></p><div class=\"pinboard-note-tile-module__noteTileBg editor-module__bgNode\" style=\"background-color: rgb(255, 255, 255);\"></div>"
+  layout:
+    tiles:
+    - visualization_id: Viz_1
+      x: 0
+      "y": 0
+      height: 4
+      width: 3
